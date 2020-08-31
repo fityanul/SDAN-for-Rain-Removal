@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1zRda-AqxrimzpPvleFHYtYM2rykNNZ-s?usp=sha
 7. Pillow
 8. tensorboardX
 
-## How to test
+## How to run
 Run "bash test.sh" or following comments:
 - Rain100L:
 python test.py --logdir logs/Rain100L/ --save_path results/Rain100L/ --data_path datasets/test/Rain100L/rainy_images/
@@ -55,5 +55,5 @@ python test.py --logdir logs/Real/finetune/ --save_path results/Real/finetune/ -
 python test.py --logdir logs/Real/no_finetune/ --save_path results/Real/no_finetune/ --data_path datasets/test/Real/rainy_images/
 
 ## Testing results
-All of the testing results of our model also available at:
+All testing results of our model also available at:
 https://drive.google.com/drive/folders/1T7IMKbu6oP3bVPF2ymB2j3t4rTOnZyhO?usp=sharing
