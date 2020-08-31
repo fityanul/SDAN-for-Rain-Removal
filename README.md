@@ -16,18 +16,18 @@ We provided the direct link download of all test datasets above:
 https://drive.google.com/drive/folders/1zRda-AqxrimzpPvleFHYtYM2rykNNZ-s?usp=sharing
 
 ## Requirements
-Ubuntu 16.04, cuda 10.1, cuDNN v-7.5
-Python3.6
-Pytorch 1.6
-h5py
-opencv-python
-scikit-image
-Pillow
-tensorboardX
+1. Ubuntu 16.04, cuda 10.1, cuDNN v-7.5
+2. Python3.6
+3. Pytorch 1.6
+4. h5py
+5. opencv-python
+6. scikit-image
+7. Pillow
+8. tensorboardX
 
 ## How to test
 Run "bash test.sh" or following comments:
-- Rain100L
+- Rain100L:
 python test.py --logdir logs/Rain100L/ --save_path results/Rain100L/ --data_path datasets/test/Rain100L/rainy_images/
 
 - Rain100H:
