@@ -12,7 +12,7 @@ In this GitHub pages, we provide our model demo for rain removal in a single ima
 7. RainDID: https://github.com/hezhangsprinter/DID-MDN
 8. Real-World: https://stevewongv.github.io/derain-project.html
 
-We also provided the direct link download of all test datasets above:
+We also provided the direct link download of all test datasets above at:
 https://drive.google.com/drive/folders/1zRda-AqxrimzpPvleFHYtYM2rykNNZ-s?usp=sharing
 
 ## Requirements
