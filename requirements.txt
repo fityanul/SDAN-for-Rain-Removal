@@ -1,0 +1,5 @@
+h5py
+opencv-python
+scikit-image
+Pillow
+tensorboardX
