@@ -54,6 +54,6 @@ python test.py --logdir logs/Real/finetune/ --save_path results/Real/finetune/ -
 - Real_no_finetune:
 python test.py --logdir logs/Real/no_finetune/ --save_path results/Real/no_finetune/ --data_path datasets/test/Real/rainy_images/
 
-##Testing results
+## Testing results
 All of the testing results of our model also available at:
 https://drive.google.com/drive/folders/1T7IMKbu6oP3bVPF2ymB2j3t4rTOnZyhO?usp=sharing
