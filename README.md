@@ -1,4 +1,4 @@
-# SDAN-for-Rain-Removal
+# SDAN-for-Rain-Removal (SSDRNet)
 "Sequential Dual Attention Network for Rain Streak Removal in a Single Image"
 
 In this GitHub pages, we provide our model demo for rain removal in a single image in conjunction with our research. We develop our program with adopted the code from: https://github.com/csdwren/PReNet. We test our model performance used 8 datasets from:
