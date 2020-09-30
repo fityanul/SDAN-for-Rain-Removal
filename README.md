@@ -1,7 +1,8 @@
 # SDAN-for-Rain-Removal (SSDRNet)
 "Sequential Dual Attention Network for Rain Streak Removal in a Single Image"
+Paper: https://ieeexplore.ieee.org/document/9206069
 
-In this GitHub pages, we provide our model (Sequential dual attention-based Single image DeRaining deep Network/SSDRNet) demo for rain removal in a single image in conjunction with our research. We develop our program with adopted the code from: https://github.com/csdwren/PReNet. We test our model performance used 8 datasets from:
+In this GitHub pages, we provide our model (Sequential dual attention-based Single image DeRaining deep Network/SSDRNet) demo for rain removal in a single image in conjunction with our research paper. We develop our program with adopted the code from: https://github.com/csdwren/PReNet. We test our model performance used 8 datasets from:
 
 1. Rain100L: https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
 2. Rain100H: https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
