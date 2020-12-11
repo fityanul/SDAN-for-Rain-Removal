@@ -3,6 +3,8 @@ If you find this github useful in your research, please consider citing:
 
 "Sequential Dual Attention Network for Rain Streak Removal in a Single Image"
 
+C. -Y. Lin, Z. Tao, A. -S. Xu, L. -W. Kang and F. Akhyar, "Sequential Dual Attention Network for Rain Streak Removal in a Single Image," in IEEE Transactions on Image Processing, vol. 29, pp. 9250-9265, 2020, doi: 10.1109/TIP.2020.3025402
+
 Paper: https://ieeexplore.ieee.org/document/9206069
 
 In this GitHub pages, we provide our model (Sequential dual attention-based Single image DeRaining deep Network/SSDRNet) demo for rain removal in a single image in conjunction with our research paper. We develop our program with adopted the code from: https://github.com/csdwren/PReNet. We test our model performance used 8 datasets from:
