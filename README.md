@@ -1,4 +1,6 @@
 # SDAN-for-Rain-Removal (SSDRNet)
+If you find this github useful in your research, please consider citing:
+
 "Sequential Dual Attention Network for Rain Streak Removal in a Single Image"
 
 Paper: https://ieeexplore.ieee.org/document/9206069
